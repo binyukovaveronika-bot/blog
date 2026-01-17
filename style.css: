@@ -25,3 +25,7 @@ blockquote.q {
 p.quote {
  font-family: "Pudelinka", cursive;
 }
+<div style="background-color: #ffc0cb; padding: 20px; border-radius: 10px;">
+  <h3>Розовый блок в README</h3>
+  <p>Ваш текст здесь.</p>
+</div>
